@@ -1,0 +1,25 @@
+hr {
+  background-color:none;
+  border-style:none;
+  border-top-style:dotted;
+  border-color: black;
+  border-width: 5px;
+  width:5%;
+  opacity: 40%;
+}
+body{
+background-image:url(../pexels-kaboompics.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+p
+{color: white;
+}
+button{
+padding: 9px 25px;
+}
+nav{
+position: relative;
+margin: 270px auto 0;
+width: 590px
+}
